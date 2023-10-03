@@ -1,25 +1,10 @@
 {
-  "name": "Nav",
-  "version": "1.0.0",
-  "description": "我的导航",
-  "main": "index.js",
-  "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hefengbao/nav.git"
-  },
-  "author": "hefengbao",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/hefengbao/nav/issues"
-  },
-  "homepage": "https://github.com/hefengbao/nav#readme",
   "devDependencies": {
-    "@vuepress/plugin-active-header-links": "^1.8.2",
-    "@vuepress/plugin-back-to-top": "^1.8.2",
-    "vuepress": "^1.8.2"
+    "vitepress": "^1.0.0-rc.20"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
   }
 }
