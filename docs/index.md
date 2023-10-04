@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Links
-      link: /资讯
+      link: /information
 
 features:
   - title: Feature A
