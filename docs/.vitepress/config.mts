@@ -9,21 +9,21 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Links', link: '/资讯' }
+      { text: 'Links', link: '/information' }
     ],
 
     sidebar: [
       {
         text: 'Links',
         items: [
-          { text: '资讯', link: '/资讯' },
-          { text: '搜索', link: '/搜索' },
-          { text: '影视', link: '/影视' },
-          { text: '音乐', link: '/音乐' },
-          { text: '图像', link: '/图像' },
-          { text: '电子书', link: '/电子书' },
-          { text: '博客', link: '/博客' },
-          { text: '程序员', link: '/程序员' },
+          { text: '资讯', link: '/information' },
+          { text: '搜索', link: '/search' },
+          { text: '影视', link: '/video' },
+          { text: '音乐', link: '/music' },
+          { text: '图像', link: '/photo' },
+          { text: '电子书', link: '/ebook' },
+          { text: '博客', link: '/blog' },
+          { text: '程序员', link: '/programmer' },
           { text: '其他', link: '/other' },
         ]
       }

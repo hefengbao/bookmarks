@@ -4,7 +4,8 @@
 
 ### 星期五
 
-[科技爱好者周刊](http://www.ruanyifeng.com/blog)   
+[科技爱好者周刊](http://www.ruanyifeng.com/blog)
+
 [独立开发变现周刊](https://juejin.cn/user/8451822201000/news)
 
 ### 每个月 28 号
