@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "软件商店",
-  description: "常用软件合集",
+  title: "上网导航",
+  description: "一些或许有用的网址链接",
   base: "/nav/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config

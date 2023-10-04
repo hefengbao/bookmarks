@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "导航"
-  text: "常用链接"
-  tagline: My great project tagline
+  name: "上网导航"
+  text: "一些或许有用的网址链接"
+  tagline: 从收藏夹移到这里继续吃灰~
   actions:
     - theme: brand
       text: Links
