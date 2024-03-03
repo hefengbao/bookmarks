@@ -1,3 +1,3 @@
-# Nav
+# Bookmark
 
-https://hefengbao.github.io/nav/
+https://hefengbao.github.io/bookmark

@@ -15,3 +15,10 @@
 [Pixabay](https://pixabay.com)
 
 [Adobe](https://www.adobe.com/products/audition/offers/AdobeAuditionDLCSFX.html)
+
+[小森平的免费下载音效 (taira-komori.jpn.org)](https://taira-komori.jpn.org/freesoundcn.html)
+
+[Free Sheet Music, Royalty Free & Public Domain Music | Musopen](https://musopen.org/)
+
+[国际乐谱库：曲谱PDF下载 (imslp.org)](https://imslp.org/)
+

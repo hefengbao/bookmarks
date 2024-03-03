@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "上网导航"
-  text: "一些或许有用的网址链接"
-  tagline: 从收藏夹移到这里继续吃灰~
+  name: "Bookmark"
+  text: "网络书签"
+  tagline: 从浏览器移到这里继续吃灰~
   actions:
     - theme: brand
       text: Links

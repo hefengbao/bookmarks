@@ -20,12 +20,19 @@
 
 [书格 (shuge.org)](https://www.shuge.org/)
 
-[中国哲学书电子化计划 (ctext.org)](https://ctext.org/zhs)
+[中华典藏 (zhonghuadiancang.com)](https://www.zhonghuadiancang.com/)
+
+[100% Free eBooks for All Devices (planetebook.com)](https://www.planetebook.com/)
+
 
 ### 编程
 
 [SaltTiger | 每天一本编程书，每天进步一点点](https://salttiger.com/)
 
+[Free Computer books Download | Online computer ebooks | online free computer science ebooks (freebookcentre.net)](https://www.freebookcentre.net/)
+
 ### 综合
 
 [libribook | Free Read & Download Online Books](https://libribook.com/)
+
+[老画报网-老连环画 漫画欣赏与交流 (laohuabao.com)](http://www.laohuabao.com/)

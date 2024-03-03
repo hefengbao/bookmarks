@@ -14,18 +14,38 @@
 
 [樱花动漫](http://www.iyinghua.io)
 
-[AGE动漫](https://www.agemys.org/)([备用地址](https://www.age.tv))
+[AGE动漫](https://www.agemys.org/)（[备用地址](https://www.age.tv)）， 地址发布：[https://github.com/agefanscom/website](https://github.com/agefanscom/website)、[https://rentry.org/agefans](https://rentry.org/agefans)
 
 [克拉TV](https://www.kelatv.com)
 
 [嘀哩嘀哩](https://dilidili.io)
 
+[影视大全-影视大全在线观看免费观看 (jinshi73.com)](https://www.jinshi73.com/)
+
+[直播中国 (cctv.com)](https://livechina.cctv.com/index.shtml)
+
 ## 视频素材
 
-1、[Mazwai](https://mazwai.com)
+- [Mazwai](https://mazwai.com)
 
-2、[Videezy](https://www.videezy.com)
+- [Videezy](https://www.videezy.com)
 
-3、[Pixabay](https://pixabay.com)
+- [Pixabay](https://pixabay.com)
 
-4、[Videvo](https://www.videvo.net)
+- [Videvo](https://www.videvo.net)
+
+- [素材库 - 影视飓风 (ysjf.com)](https://www.ysjf.com/materialLibrary)
+
+- [Free Stock Video Footage HD Royalty-Free Videos Download (mazwai.com)](https://mazwai.com/)
+
+- [找台词 (zhaotaici.cn)](https://zhaotaici.cn/)
+
+## 视频编辑
+
+[Shotcut 是一款免费的开源跨平台视频编辑器](https://shotcut.org/)
+
+[Kdenlive - 自由开源的免费视频编辑软件。](https://kdenlive.org/zh/)
+
+[OpenShot 视频编辑器 |适用于 Linux、Mac 和 Windows 的免费、开放且屡获殊荣的视频编辑器！](https://www.openshot.org/)
+
+[DaVinci Resolve 18：专业的编辑、色彩、效果和音频后期！](http://www.blackmagicdesign.com/products/davinciresolve)

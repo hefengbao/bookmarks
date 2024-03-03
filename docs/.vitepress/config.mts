@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "上网导航",
-  description: "一些或许有用的网址链接",
+  title: "Bookmark",
+  description: "网络书签",
   base: "/nav/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -17,6 +17,7 @@ export default defineConfig({
         text: 'Links',
         items: [
           { text: '资讯', link: '/information' },
+          { text: '', link: '/information' },
           { text: '搜索', link: '/search' },
           { text: '影视', link: '/video' },
           { text: '音乐', link: '/music' },
