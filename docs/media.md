@@ -6,8 +6,6 @@
 
 ## 图片编辑
 
-[Darktable：open source photography workflow application and raw developer]([darktable](https://www.darktable.org/))
-
 [penpot/penpot: Penpot - The Open-Source design & prototyping platform (github.com)](https://github.com/penpot/penpot)
 
 [设计编辑器-vue-fabric-editor (nihaojob.github.io)](https://nihaojob.github.io/vue-fabric-editor/)（[源码](https://github.com/nihaojob/vue-fabric-editor)）

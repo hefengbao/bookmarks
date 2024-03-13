@@ -43,6 +43,21 @@
 
 [labring/laf: laf 是一个 serverless 框架，提供开箱即用的云函数，云数据库，对象存储等能力，是一个干净清爽的开发平台，像写博客一样写代码！](https://github.com/labring/laf)
 
+## 开发文档
+
+[MDN Web Docs (mozilla.org)](https://developer.mozilla.org/zh-CN/) Html、 CSS、 Javscript、 Web API 等
+
+[开发者手册 - 腾讯云开发者社区-腾讯云 (tencent.com)](https://cloud.tencent.com/developer/doc/1018) 
+
+[nginx documentation](https://nginx.org/en/docs/)
+
+[PHP: PHP 手册 - Manual](https://www.php.net/manual/zh/index.php)
+
+[Quick Reference - 为开发人员分享快速参考备忘清单【速查表】。](https://wangchujiang.com/reference/index.html)
+
+[OverAPI.com | Collecting all the cheat sheets](https://overapi.com/)
+
+
 ## 服务搭建
 
 [supabase/supabase: The open source Firebase alternative. (github.com)](https://github.com/supabase/supabase)
