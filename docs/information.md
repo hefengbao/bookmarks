@@ -32,7 +32,7 @@
 
 ### 每个月 28 号
 
-[HelloGitHub 月刊]([HelloGitHub｜月刊](https://hellogithub.com/periodical)) 
+[HelloGitHub｜月刊](https://hellogithub.com/periodical)
 
 ## 其他
 
