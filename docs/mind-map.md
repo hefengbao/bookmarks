@@ -10,6 +10,9 @@
 
 [xmind 图库](https://xmind.cn/mindmaps-gallery/)
 
+[Freeplane - a free and open source software application that supports thinking, sharing information, getting things done at work, in school and at home.](https://docs.freeplane.org/home.html)
+
+
 ## 图表（Diagram）
 
 [draw.io](https://app.diagrams.net/)（[桌面版](https://github.com/jgraph/drawio-desktop)）（[Github](https://github.com/jgraph/drawio)）
@@ -32,6 +35,10 @@
 [excalidraw/excalidraw: Virtual whiteboard for sketching hand-drawn like diagrams](https://github.com/excalidraw/excalidraw)（[网站](https://excalidraw.com/)）
 
 [susam/muboard: Self-rendering and distributable mathematics chalkboards (github.com)](https://github.com/susam/muboard)数学白板工具：Muboard，可通过编写 Markdown + LaTeX，在 Web 页面上进行展示，方便用于教学、演讲、会议等场景.
+
+[mbrlabs/Lorien: Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot. (github.com)](https://github.com/mbrlabs/Lorien)
+
+[OpenBoard, the best interactive whiteboard for schools and universities](https://openboard.ch/index.en.html)
 
 
 **untools：更好思考问题的工具**  

@@ -49,3 +49,25 @@
 [OpenShot 视频编辑器 |适用于 Linux、Mac 和 Windows 的免费、开放且屡获殊荣的视频编辑器！](https://www.openshot.org/)
 
 [DaVinci Resolve 18：专业的编辑、色彩、效果和音频后期！](http://www.blackmagicdesign.com/products/davinciresolve)
+
+[HandBrake](http://handbrake.fr/) - 一个拥有良好界面的高性能视频编码和转换工具。 [
+
+[K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - DirectShow过滤器，VFW / ACM 编解码器和工具的集合。
+
+[Pitivi, a free and open source video editor for Linux](https://pitivi.org/)
+
+[Olive Video Editor](https://olivevideoeditor.org/download)
+
+[mifi/lossless-cut: The swiss army knife of lossless video/audio editing (github.com)](https://github.com/mifi/lossless-cut)
+
+## 视频播放器
+
+[PotPlayer](http://potplayer.daum.net/) - 多媒体播放器，具有广泛的编解码器集合，它还为用户提供大量配置选项。
+
+[SMPlayer](https://sourceforge.net/projects/smplayer/) - 多媒体播放器，可针对不同视频保存不同的配置。
+
+[VLC](http://www.videolan.org/vlc/index.html) - 多媒体播放器和框架，用于播放DVD，音频CD，VCD和各种流协议。
+
+[mpv](http://mpv.io/) -媒体播放器。
+
+[Open Broadcaster Software](https://obsproject.com/) - 免费开源的视频录制和流媒体播放软件。

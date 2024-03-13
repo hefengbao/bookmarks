@@ -50,7 +50,14 @@ https://www.transparenttextures.com/
 
 [ManyPixels：矢量图插图下载网站](https://www.manypixels.co/gallery)
 
-### 图标
+[SVGPORN - 矢量 Logo](https://svgporn.com/)
+
+[SVG 工具 - SVG：可缩放矢量图形 | MDN (mozilla.org)](https://developer.mozilla.org/zh-CN/docs/Web/SVG/Tutorial/Tools_for_SVG)
+
+
+### 图标（Icon）
+
+[Phosphor Icons](https://phosphoricons.com/)
 
 [Yesicon - 精选全球高品质、开源、免费的矢量图标库](https://yesicon.app/)
 
@@ -174,12 +181,32 @@ https://www.transparenttextures.com/
 
 https://www.renderforest.com/ 
 
+## 取色
+
+[Color Hunter](http://www.colorhunter.com/)
+
 
 ## 图片编辑
 
+[Gimp](https://github.com/GNOME/gimp) - 能够在图像处理方面替代 Photoshop 的优秀**开源**软件。著名开源社区 GNOME 的作品之一。
+
+[Krita](https://krita.org/zh-cn/) - 在绘画方面替代甚至超越 Photoshop 的优秀**开源**软件。著名开源社区 KDE 的作品之一。也可用于制作动画。
+
+[Inkscape](https://inkscape.org/zh-hans/?switchlang=zh-hans) - 强大**开源**的矢量图处理软件。
+
+[Blender](https://www.blender.org/) - 强大**开源**的三维模型与动画软件。面向个人的教程充足易上手的同时，也被工作室用于制作电影。
+
+[Sweet Home 3D - Draw floor plans and arrange furniture freely](https://www.sweethome3d.com/)
+
+
+[danielgatis/rembg - 去除图片背景 ](https://github.com/danielgatis/rembg)
+
+
+[Photopea - Online Photo Editor](https://www.photopea.com/)
+
 [Photoflare – Simple but powerful Cross Platform Image Editor](https://photoflare.io/)（[Github](https://github.com/PhotoFlare/photoflare)）
 
- [MAGMA：协作绘画应用程序](https://magma.com)
+[MAGMA：协作绘画应用程序](https://magma.com)
 
 [SvgPathEditor：用于创建和操作SVG路径的在线编辑器](https://yqnn.github.io/svg-path-editor/)（[Github](https://github.com/Yqnn/svg-path-editor)）
 
@@ -195,9 +222,13 @@ https://www.renderforest.com/
 
 [darktable](https://www.darktable.org/)
 
+[Sanster/IOPaint: Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures. (github.com)](https://github.com/Sanster/IOPaint)
+
 ## 图片压缩
 
 [ImageOptim：更好用的图片压缩工具](https://github.com/ImageOptim/ImageOptim)（Mac）
+
+[Caesium - Image Compressor (saerasoft.com)](https://saerasoft.com/caesium)
 
 ## Gif
 

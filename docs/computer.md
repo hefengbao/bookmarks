@@ -4,9 +4,9 @@
 [网页里的电脑博物馆 (compumuseum.com)](https://www.compumuseum.com/)
 
 
-## 浏览器
+## 🔷浏览器
 
-### 插件
+### 👉插件
 
 [AutomaApp/automa: A browser extension for automating your browser by connecting blocks (github.com)](https://github.com/AutomaApp/automa)
 
@@ -14,11 +14,16 @@
 
 [webclipper/web-clipper: For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere (github.com)](https://github.com/webclipper/web-clipper)
 
+## 🔷操作系统
 
-## 操作系统
-### Linux
+### 👉Windows
 
-#### 软件
+#### 🔻hosts
+[oldj/SwitchHosts: Switch hosts quickly! (github.com)](https://github.com/oldj/SwitchHosts)
+
+### 👉Linux
+
+#### 🔻软件
 [Glibc](http://ftp.gnu.org/gnu/glibc/)
 
 [Apps for GNOME – Discover the best Apps for GNOME](https://apps.gnome.org/zh-CN/)
@@ -27,7 +32,9 @@
 
 [Multipass orchestrates virtual Ubuntu instances](https://multipass.run/)
 
-#### 命令
+#### 🔻命令
+
+[Bash-Oneliner | A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance. (onceupon.github.io)](https://onceupon.github.io/Bash-Oneliner/)
 
 [Linux 命令行](http://billie66.github.io/TLCL/book/)
 
@@ -41,16 +48,27 @@
 
 [Linux Performance (brendangregg.com)](https://www.brendangregg.com/linuxperf.html)
 
-#### vim
+#### 🔻vim
 
 [VIM 中文帮助: 总览及快速参考 (yianwillis.github.io)](https://yianwillis.github.io/vimcdoc/doc/help.html)
 
 [Learn Vim](https://gitlab.com/wsdjeg/Learn-Vim_zh_cn)
 
 
-## 服务器
+### 👉服务器
 
 [Servers for Hackers](https://serversforhackers.com/)
 
 [jlevy/the-art-of-command-line: Master the command line, in one page (github.com)](https://github.com/jlevy/the-art-of-command-line)
 
+
+### 👉启动盘
+
+[Ventoy：新一代多系统启动U盘解决方案](https://www.ventoy.net/cn/index.html)
+
+[Rufus - 轻松创建 USB 启动盘](https://rufus.ie/zh/)
+
+
+## 👉远程桌面
+
+[RustDesk – 开源远程桌面访问软件](https://rustdesk.com/zh/)

@@ -1,6 +1,8 @@
 
 ## 阅读器
 
+[Calibre](http://calibre-ebook.com/)-用于电子书管理和转换的强大软件。
+
 [Koodo Reader 是一个开源免费的电子书阅读器，支持多达15种主流电子书格式， 内置笔记、高亮、翻译功能，助力高效书籍阅读和学习。](https://koodo.960960.xyz/zh) [koodo-reader/koodo-reader)](https://github.com/koodo-reader/koodo-reader)
 
 [Sumatra PDF：开源轻量的阅读器](https://www.sumatrapdfreader.org/download-free-pdf-viewer)

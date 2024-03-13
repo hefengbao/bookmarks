@@ -32,5 +32,23 @@
 [数字敦煌 (e-dunhuang.com)](https://www.e-dunhuang.com/)
 
 
+## 汉字
 
-[Hanzi Writer - 汉字笔画顺序描边动画和练习测验](https://hanziwriter.org/cn/)
+[Hanzi Writer 是 javascript 免费开源库，根据汉字书写时按照笔画顺序的特征，可以播放正确笔画顺序的描边动画和练习测试。 支持简体字和繁体字。]](https://hanziwriter.org/cn/)（[Github](https://github.com/chanind/hanzi-writer)）
+
+[CNChar - 功能全面、多端支持的汉字拼音笔画js库](https://theajack.github.io/cnchar/)（[Github](https://github.com/theajack/cnchar)）
+
+
+## 色彩
+
+[中國傳統色彩 (Chinese traditional colors ) (cht-colors.pages.dev)](https://cht-colors.pages.dev/)（[Github](https://github.com/reorx/cht-colors)）
+
+[中國國畫常用色彩 (China Painting Color) (cht-colors.pages.dev)](https://cht-colors.pages.dev/painting/)
+
+## 其他
+
+[mumuy/relationship: 中国亲戚关系计算器 - 家庭称谓/亲戚称呼/称呼计算/辈分计算/亲戚关系算法/親戚稱呼計算機_Chinese kinship system. (github.com)](https://github.com/mumuy/relationship)
+
+
+[识典古籍-古籍在线阅读平台 (shidianguji.com)](https://www.shidianguji.com/)
+

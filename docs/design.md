@@ -20,7 +20,11 @@
 
 [Inkscape：功能强大、免费的设计工具](https://inkscape.org/)
 
+[Triangle Patterns - 在线三角渐变图生成器](https://sinqi.tools/zh/triangle)
+
 ## 配色
+
+[Color Mixer：根据一组色彩搭配进行混色的小工具](https://colormixer.web.app/)
 
 [Happy Hues - Curated colors in context.](https://www.happyhues.co/)
 
@@ -28,9 +32,35 @@
 
 [Randoma11y - Accessible color combinations](https://randoma11y.com/)
 
+[网页设计常用色彩搭配表 - 配色表](http://tool.c7sky.com/webcolor/)
+
+[Eva Design System: Deep learning color generator](https://colors.eva.design/)
+
+[BrandColors - official brand color hex codes](https://brandcolors.net/)
+
+[ColorBox](https://colorbox.io/)
+
+[LOL Colors - Curated color palette inspiration (webdesignrankings.com)](https://www.webdesignrankings.com/resources/lolcolors/)
+
+[Gradient Background Colors - Eggradients.com](https://www.eggradients.com/)
+
+[ColorSpace - Color Palettes Generator and Color Gradient Tool (mycolor.space)](https://mycolor.space/
+
+[Color Palette Generator - Create Beautiful Color Schemes (muz.li)](https://colors.muz.li/)
+
+[Pigment - Simple Color Palette Generator](https://pigment.shapefactory.co/)
+
+[Palettte App](https://palettte.app/)
+
+[Hypercolor - Gradients for Tailwind CSS ](https://hypercolor.dev/)
+
 ## 颜色
 
 [中国传统颜色手册](https://colors.ichuantong.cn/)
+
+[中国传统色彩 - 优设配色导航 - 国内专业设计师导航 (uisdc.com)](https://hao.uisdc.com/color/)
+
+[zhongguose － 传统颜色](http://zhongguose.com/)
 
 [Color Designer - Simple Color Palette Generator](https://colordesigner.io/)
 
@@ -46,7 +76,7 @@
 
 [✨中文网字计划-提供便捷实用的全字符集中文渲染方案 (chinese-font.netlify.app)](https://chinese-font.netlify.app/)
 
-
+[得意黑](https://github.com/atelier-anchor/smiley-sans)
 
 ## 资料
 

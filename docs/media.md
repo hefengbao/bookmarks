@@ -1,4 +1,8 @@
-[Jellyfin:The Free Software Media System](https://jellyfin.org/)
+
+[Kod - Open Source Home Theater Software i](https://kodi.tv/)（[Github](https://github.com/xbmc/xbmc)）
+
+[Navidrome 开源音乐服务器和流媒体](https://www.navidrome.org/)
+
 
 ## 图片编辑
 
@@ -35,6 +39,9 @@
 [Djdefrag/QualityScaler: QualityScaler - image/video AI upscaler app (github.com)](https://github.com/Djdefrag/QualityScaler) 一个 Windows 桌面软件，可以提升图片和视频的分辨率，让它们变得更清晰。
 
 [mifi/lossless-cut: The swiss army knife of lossless video/audio editing (github.com)](https://github.com/mifi/lossless-cut)
+
+[Shotcut：free, open source, cross-platform video editor](https://www.shotcut.org/)
+
 
 ## 播放器
 

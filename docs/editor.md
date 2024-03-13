@@ -1,4 +1,10 @@
 
+
+[Markdown 在线编辑器· 开发者工具箱 (devtool.tech)](https://markdown.devtool.tech/app) 可复制内容到微信公众号
+
+[公众号 & Markdown 排版 (jeffjade.com)](https://wechat.jeffjade.com/)
+
+
 [Quill - Your powerful rich text editor](https://quilljs.com/)
 
 [canvas-editor](https://hufe.club/canvas-editor/) [源码](https://github.com/Hufe921/canvas-editor)
@@ -11,18 +17,55 @@
 
 [Lexical：An extensible text editor framework that does things differently](https://lexical.dev/)（[Github](https://github.com/facebook/lexical)）
 
-## 编辑器组件
+## Markdown 语法
 
-[Dashibase/lotion: An open-source Notion UI built with Vue 3 (github.com)](https://github.com/Dashibase/lotion)
+[Markdown 官方教程](https://markdown.com.cn/)
+
+[GitHub 风格的 Markdown 规范 | GFM (docschina.org)](https://gfm.docschina.org/zh-hans/)
+
+[Markdown Reference (commonmark.org)](https://commonmark.org/help/)
+
+[Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+
 
 ## 笔记
 
-### Markdown
+[Memos - Easily capture and share your great thoughts. Open Source and Free forever](https://www.usememos.com/)（[Github](https://github.com/usememos/memos)）
 
-[Markdown 在线编辑器· 开发者工具箱 (devtool.tech)](https://markdown.devtool.tech/app)
+## 笔记软件（APP）
+
+### Obsidian
+
+[Obsidian - Sharpen your thinking](https://obsidian.md/) 可免费使用
+
+![](https://obsidian.md/images/screenshot-1.0-hero-combo.png)
+### Bluestone
+
+[Bluestone - markdown editing and sharing tools (bluemd.me)](https://www.bluemd.me/)（[Github](https://github.com/1943time/bluestone)）
+支持Mac、Windows、Linux， 开源免费
+
+![](https://www.bluemd.me/images/light.png)
+### Notable
+
+[Notable - The Markdown-based note-taking app that doesn't suck](https://notable.app/) 免费
+
+![](https://notable.app/static/images/screenshots/main_windows.png)
+
+
+## Joplin
+
+[laurent22/joplin: Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS. (github.com)](https://github.com/laurent22/joplin)
+
+![](https://joplinapp.org/images/home-top-img-2x.webp)
+## Xournal++
+
+[Xournal++ Take handwritten notes with ease.](https://xournalpp.github.io/)
+
+![](https://xournalpp.github.io/img/Physics%20Problem.png)
 
 [logseq/logseq: A privacy-first, open-source platform for knowledge management and collaboration. ](https://github.com/logseq/logseq)（[官网](https://logseq.com/)）
 
+[Simplenote](https://simplenote.com/)
 
 [Trilium Notes 是一个层次化的笔记应用程序，专注于建立大型个人知识库。](https://github.com/zadam/trilium)（[下载](https://github.com/zadam/trilium/releases)）
 
@@ -52,6 +95,14 @@
 
 [penxio/penx: A structured note-taking app for personal use. (github.com)](https://github.com/penxio/penx)（Web）
 
+[GitJournal/GitJournal: Mobile first Note Taking integrated with Git (github.com)](https://github.com/GitJournal/GitJournal)
+
+
+[toeverything/AFFiNE: There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. (github.com)](https://github.com/toeverything/AFFiNE)
+
+[AppFlowy-IO/AppFlowy: AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (github.com)](https://github.com/AppFlowy-IO/appflowy)
+
+[mattermost/focalboard: Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. (github.com)](https://github.com/mattermost/focalboard)
 
 ## 其他
 

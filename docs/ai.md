@@ -9,6 +9,7 @@
 
 [AI for Beginners (microsoft.github.io)](https://microsoft.github.io/AI-For-Beginners/)（英文，主要讲原理概念）
 
+[leon-ai/leon: 🧠 Leon is your open-source personal assistant. (github.com)](https://github.com/leon-ai/leon)
 
 ## Prompt
 

@@ -1,3 +1,3 @@
 # Bookmark
 
-https://hefengbao.github.io/bookmark
+https://hefengbao.github.io/bookmaks
