@@ -42,6 +42,7 @@
 ### 👉Linux
 
 #### 🔻软件
+
 [Glibc](http://ftp.gnu.org/gnu/glibc/)
 
 [Apps for GNOME – Discover the best Apps for GNOME](https://apps.gnome.org/zh-CN/)
@@ -68,9 +69,10 @@
 
 [Linux Performance (brendangregg.com)](https://www.brendangregg.com/linuxperf.html)
 
-[SSH 教程 - 网道 (wangdoc.com)](https://wangdoc.com/ssh/)（[Github]([github.com](https://github.com/wangdoc/ssh-tutorial))）
+[SSH 教程 - 网道 (wangdoc.com)](https://wangdoc.com/ssh/)（[Github](https://github.com/wangdoc/ssh-tutorial)）
 
 [Grep by example: Interactive guide (antonz.org)](https://antonz.org/grep-by-example/)
+
 #### 🔻vim
 
 [VIM 中文帮助: 总览及快速参考 (yianwillis.github.io)](https://yianwillis.github.io/vimcdoc/doc/help.html)

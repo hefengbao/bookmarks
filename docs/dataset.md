@@ -23,7 +23,7 @@
 
 [modood/Administrative-divisions-of-China: 中华人民共和国行政区](https://github.com/modood/Administrative-divisions-of-China)（省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
 
-[省市县数据CTAmap](https://www.shengshixian.com/)（[Github]([github.com](https://github.com/ruiduobao/shengshixian.com))）
+[省市县数据CTAmap](https://www.shengshixian.com/)（[Github](https://github.com/ruiduobao/shengshixian.com)）
 
 [mdphp/region: laravel 省市区镇查询组件, 可以查询国家统计局公开的中国省市区镇行政区域结构化信息, 也提供 json 数据文件以及 sql 数据库导入文件 (github.com)](https://github.com/mdphp/region)
 
