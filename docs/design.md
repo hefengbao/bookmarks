@@ -1,4 +1,8 @@
 
+[WebStack.cc - 设计师网址导航](https://webstack.cc/cn/index.html)
+
+[DesignSystemHunt.com](https://www.designsystemhunt.com/)
+
 
 
 [Tencent ISUX Design](https://isux.tencent.com/)
@@ -8,6 +12,10 @@
 [Apple Design Resources - Apple Developer](https://developer.apple.com/design/resources/)
 
 [Ant Design (antgroup.com)](https://ant-design.antgroup.com/docs/spec/introduce-cn)
+
+[bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more (github.com)](https://github.com/bradtraversy/design-resources-for-developers)
+
+[OpenMoji - Open source emojis for designers, developers and everyone else!](https://openmoji.org/)
 
 
 ## 工具
@@ -21,6 +29,11 @@
 [Inkscape：功能强大、免费的设计工具](https://inkscape.org/)
 
 [Triangle Patterns - 在线三角渐变图生成器](https://sinqi.tools/zh/triangle)
+
+[Free SVG generators, color tools & web design tools (fffuel.co)](https://fffuel.co/)
+
+[Polotno (puter.com)](https://puter.com/app/polotno)
+
 
 ## 配色
 
@@ -48,11 +61,19 @@
 
 [Color Palette Generator - Create Beautiful Color Schemes (muz.li)](https://colors.muz.li/)
 
+[ColorHuddle – Palettes with Examples](https://colorhuddle.co/)
+
 [Pigment - Simple Color Palette Generator](https://pigment.shapefactory.co/)
 
 [Palettte App](https://palettte.app/)
 
 [Hypercolor - Gradients for Tailwind CSS ](https://hypercolor.dev/)
+
+[Poline — Esoteric Color Palette Generation Library (meodai.github.io)](https://meodai.github.io/poline/)
+
+渐变色：
+
+[uiGradients - Beautiful colored gradients](https://uigradients.com/#Army)
 
 ## 颜色
 
@@ -61,6 +82,8 @@
 [中国传统色彩 - 优设配色导航 - 国内专业设计师导航 (uisdc.com)](https://hao.uisdc.com/color/)
 
 [zhongguose － 传统颜色](http://zhongguose.com/)
+
+[NIPPON COLORS - 日本の伝統色](https://nipponcolors.com/)
 
 [Color Designer - Simple Color Palette Generator](https://colordesigner.io/)
 
@@ -78,6 +101,9 @@
 
 [得意黑](https://github.com/atelier-anchor/smiley-sans)
 
+[Mona Sans & Hubot Sans (github.com)](https://github.com/mona-sans)
+
+[intel/intel-one-mono: Intel One Mono font repository (github.com)](https://github.com/intel/intel-one-mono)
 ## 资料
 
 [Redesign Design System 重新设计设计系统](https://redesigningdesign.systems/component-process/getting-started.html)
@@ -106,3 +132,6 @@
 
 [52 个设计法则 - 小红书](https://rpdc.xiaohongshu.com/52-design-principles)
 
+
+
+[jobbole/awesome-design-cn: 设计师资源大全，包含：ICON图标、Logo设计、PhotoShop插件、交互设计工具、流程图、线框图/原型图、设计博客等 (github.com)](https://github.com/jobbole/awesome-design-cn)

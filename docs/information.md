@@ -11,6 +11,13 @@
 
 [探索互联网上高质量的内容 | 沉浸式翻译 (immersivetranslate.com)](https://immersivetranslate.com/docs/sites/)
 
+[龙爪槐守望者 - 体验碎周报](https://www.ftium4.com/)
+
+
+网络安全：
+
+[FreeBuf网络安全行业门户](https://www.freebuf.com/)
+
 
 [Track Awesome List - Track your Favorite Github Awesome List Daily](https://www.trackawesomelist.com/)（英文）
 

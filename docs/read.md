@@ -16,3 +16,5 @@
 [FeedFlow：适用于 Android, iOS and macOS 的 rss 阅读器](https://github.com/prof18/feed-flow)
 
 [Omnivore：开源的"稍后阅读"（read-it-later）解决方案，可以收藏网址、RSS 和邮件列表的文章，提供 Web 和手机客户端。](https://github.com/omnivore-app/omnivore)
+
+[避免被算法拿捏，这些 RSS 工具值得一试 - Awesome软件 - OSCHINA - 中文开源技术交流社区](https://www.oschina.net/project/awesome?columnId=54)

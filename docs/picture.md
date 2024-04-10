@@ -1,6 +1,8 @@
 ### 图片
 
-[Pexels](https://www.pexels.com)
+[Pexels - 免费素材图片 (pexels.com)](https://www.pexels.com/zh-cn/)
+
+[Pixabay - 分享超过440万张高质量的图片、视频和音乐。](https://pixabay.com/)
 
 [StreetWill](http://streetwill.co)
 
@@ -8,7 +10,6 @@
 
 [Unsplash](https://unsplash.com/)
 
-[Pixabay](https://pixabay.com/)
 
 [Artvee](https://artvee.com/)
 
@@ -56,6 +57,12 @@ https://www.transparenttextures.com/
 
 
 ### 图标（Icon）
+
+[Radix Icons (radix-ui.com)](https://www.radix-ui.com/icons)
+
+[Lucide](https://lucide.dev/)
+
+[Icons 集合(icones.js.org)](https://icones.js.org/collection/all)
 
 [Phosphor Icons](https://phosphoricons.com/)
 
@@ -105,6 +112,28 @@ https://www.transparenttextures.com/
 
 [useAnimations：带有动画效果的 ICON](https://useanimations.com/index.html)
 
+[Potlab Icons — Animated SVG icons for web projects](https://www.potlabicons.com/)
+
+[Iconbuddy — 200K+ open source free svg icons](https://iconbuddy.app/)
+
+[Tabler Icons: 5200+ free vector icons for web design - Tabler: Free and Open-Source HTML Dashboard Template](https://tabler.io/icons)
+
+[Iconbolt - 83,782 free vector icons at your fingertips](https://www.iconbolt.com/)
+
+[erikflowers/weather-icons: 215 Weather Themed Icons and CSS (github.com)](https://github.com/erikflowers/weather-icons)
+
+[React Icons (react-icons.github.io)](https://react-icons.github.io/react-icons/)
+
+[IconKitchen - APP ICON GENERATOR](https://icon.kitchen) （iOS, Android, Web）
+
+[Remix Icon - Open source icon library](https://remixicon.com/)
+
+[Feather – Simply beautiful open source icons (feathericons.com)](https://feathericons.com/)
+
+[Free Icons | icons.download](https://icons.download/)
+
+[Icon Maker by Raycast](https://icon.ray.so/)
+
 ## 插画
 
 [UchinokoMaker：免费、轻松地创建犬猫咪插图!](https://uchinoko-maker.jp/?lang=zh-cmn-Hans)
@@ -142,17 +171,11 @@ https://www.transparenttextures.com/
 
 [Screen — Screenshot Creator for Product Pages (traction.one)](https://screen.traction.one/)（免费在线编辑）
 
-[Smartmockups：輕鬆於線上建立精美的產品模板](https://smartmockups.com/zh)（有一部分免费功能）
-
-[shotsnapp](https://app.shotsnapp.com/)（在线编辑、部分功能免费）
-
 [Mockups-Design.com](https://mockups-design.com/)（免费）
-
-[AlienValley - Graphics and Designs from another dimension](https://alienvalley.com/freebies/)（部分免费）
 
 [Anthonyboyd.Graphics：Free Mockups](https://www.anthonyboyd.graphics/mockups-collection/)
 
-[Apemockups：All Free Mockups | Download Free PSD Mockups ](https://www.apemockups.com/)
+[Apemockups：模板下载 ](https://www.apemockups.com/)
 
 [ ls.graphics：Download Free Mockups （PSD, Sketch, Figma） ](https://www.ls.graphics/free-mockups)
 
@@ -178,6 +201,7 @@ https://www.transparenttextures.com/
 
 [西田样机 - 海量高质量Mockup模板|PSD样机|展示模型 (sitapix.com)](https://mockup.sitapix.com/)
 
+[壁纸样机生成器 - iPhone、iPad、Mac 锁屏/桌面模板 (mjcn.club)](https://mjcn.club/)
 
 https://www.renderforest.com/ 
 
@@ -224,12 +248,15 @@ https://www.renderforest.com/
 
 [Sanster/IOPaint: Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures. (github.com)](https://github.com/Sanster/IOPaint)
 
+[YEELOGO_logo在线制作](http://www.yeelogo.com/#/)
+
 ## 图片压缩
 
 [ImageOptim：更好用的图片压缩工具](https://github.com/ImageOptim/ImageOptim)（Mac）
 
 [Caesium - Image Compressor (saerasoft.com)](https://saerasoft.com/caesium)
 
+[Squoosh - 在线图片压缩](https://squoosh.app/)（[Github](https://github.com/GoogleChromeLabs/squoosh)）
 ## Gif
 
 [ezgif.com free online animated GIF editor](https://ezgif.com/)

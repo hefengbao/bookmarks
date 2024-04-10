@@ -18,6 +18,12 @@
 
 [PPTIST - 在线演示文稿 (gitee.io)](https://pptist.gitee.io/)
 
+[PPTIST - 在线演示文稿 (pipipi-pikachu.github.io)](https://pipipi-pikachu.github.io/PPTist/)
+## Excel
+
+[懒人Excel - Excel 函数公式、操作技巧、数据分析、图表模板、VBA、数据透视表教程 (lanrenexcel.com)](https://www.lanrenexcel.com/)
+
+
 ## 文件管理
 
 [Spacedrive：跨平台文件管理器](https://www.spacedrive.com/)（[Github](https://github.com/spacedriveapp/spacedrive)）

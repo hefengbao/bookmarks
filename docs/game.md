@@ -20,12 +20,22 @@
 
 [WebGAL：全新的网页端视觉小说引擎](https://openwebgal.com/zh-cn/)
 
+[Eva.js - 一个专注于开发互动游戏的前端互动游戏引擎](https://eva-engine.gitee.io/)
+
 [Airtest IDE：Cross platform UI automation IDE](https://airtest.netease.com/)
 
 [Microsoft MakeCode Arcade](https://arcade.makecode.com/)
 
 [microStudio - Game Engine](https://microstudio.dev/)
 
+[Azgaar's Fantasy Map Generator v1.96.07](https://azgaar.github.io/Fantasy-Map-Generator/)
+
+技术：
+
 [ElvisQin/thegibook: 《全局光照技术：从离线到实时渲染》 (github.com)](https://github.com/ElvisQin/thegibook)
 
-[Azgaar's Fantasy Map Generator v1.96.07](https://azgaar.github.io/Fantasy-Map-Generator/)
+素材：
+
+[Poly Haven - The Public 3D Asset Library](https://polyhaven.com/)
+
+[Game UI Database](https://www.gameuidatabase.com/)

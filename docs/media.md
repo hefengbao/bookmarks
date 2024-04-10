@@ -62,3 +62,6 @@
 [woltapp/blurhash: A very compact representation of a placeholder for an image. (github.com)](https://github.com/woltapp/blurhash) 这个工具可以提取图片的颜色分布，生成一个哈希字符串。网页就可以用这个哈希，生成图片的模糊缩略图。
 
 [Paint Board：一款基于 canvas 的 Web 端多功能画板](https://github.com/LHRUN/paint-board)
+
+
+[neutraltone/awesome-stock-resources: :city_sunrise: A collection of links for free stock photography, video and Illustration websites (github.com)](https://github.com/neutraltone/awesome-stock-resources)

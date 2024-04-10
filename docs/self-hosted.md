@@ -70,6 +70,13 @@
 [anderspitman/awesome-tunneling: List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting. (github.com)](https://github.com/anderspitman/awesome-tunneling)
 
 [Self-Host Penpot: Powerful Design Tool](https://penpot.app/self-host)
+
+[Runtipi - Homeserver management made easy](https://runtipi.io/)（[Github](https://github.com/runtipi/runtipi)）
+
+[MagicMirrorOrg/MagicMirror: MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant. (github.com)](https://github.com/MagicMirrorOrg/MagicMirror)
+
+[Tandoor Recipes - Application for managing recipes, planning meals, building shopping lists and much much more!](https://docs.tandoor.dev/)（[Github](https://github.com/TandoorRecipes/recipes)）
+
 ## 资料
 
 [云服务器都99一年了，除了买来吃灰，你还能用来装这些免费云软件 – NewApp.ai (ftqq.com)](https://y.ftqq.com/2021/08/15/how-to-use-your-99rmb-vps/)

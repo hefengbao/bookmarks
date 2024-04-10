@@ -27,6 +27,7 @@
 
 [Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
+[Github Markdown - 基本撰写和格式语法](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## 笔记
 
@@ -68,8 +69,6 @@
 [Simplenote](https://simplenote.com/)
 
 [Trilium Notes 是一个层次化的笔记应用程序，专注于建立大型个人知识库。](https://github.com/zadam/trilium)（[下载](https://github.com/zadam/trilium/releases)）
-
-[ Notes 专为您的想法而设计。写下你的想法。](https://www.get-notes.com/)（[源码](https://github.com/nuttyartist/notes)）
 
 [CubyText：开源的知识管理应用](https://github.com/vincentdchan/CubyText)（[下载](https://github.com/vincentdchan/CubyText/releases)）
 

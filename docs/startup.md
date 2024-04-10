@@ -3,6 +3,7 @@
 
 [Pitch Deck Hunt：The Best Pitch Deck Examples ](https://www.pitchdeckhunt.com/)
 
+[Product Hunt – The best new products in tech.](https://www.producthunt.com/)
 
 ## 产品经理
 
@@ -11,6 +12,7 @@
 ## 管理
 
 [High Growth Handbook – By Elad Gil](https://growth.eladgil.com/)（英文）
+
 ## 销售
 
 [创始人销售_B2B销售团队建立管理与培训_创业公司销售管理指南 (curtao.com)](https://www.curtao.com/foundingsales)

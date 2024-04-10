@@ -11,32 +11,10 @@
 [成语故事大全-四字成语典故查询与成语历史故事大全 (chengyudiangu.cn)](http://chengyudiangu.cn/)
 
 
-## 大学教育资源
 
-[清华大学计算机系课程攻略](https://rekcarc-tsc-uht.readthedocs.io/en/latest/index.html)（[Github](https://github.com/PKUanonym/REKCARC-TSC-UHT)）
+[现代科研指北 (yufree.github.io)](https://yufree.github.io/sciguide/)
 
-[浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
-
-[中国科学技术大学课程资源](https://ustc-resource.github.io/USTC-Course/)
-
-[上海交通大学课程资料分享](https://github.com/kxxwz/SJTU-Courses)
-
-[哈尔滨工业大学（深圳）计算机专业课程攻略](https://github.com/LAGRANGIST/HITSZ-CS-GEEK)
-
-[厦门大学攻略大全](https://github.com/XMU-Helper/home)
-
-[复旦大学课程资源](https://github.com/openFudan/fudan-coursera)
-
-[中山大学计算机学院计算机科学专业的课程资料](https://github.com/ysyisyourbrother/SYSU_Notebook)
-
-[北京大学高等数学B-谢彦桐](https://darkoxie.github.io/)
-
-[数学基本分析讲义和高等数学讲义 - 东南大学李逸教授的主页](https://math.seu.edu.cn/ly/list.htm)
-
-[北京航空航天大学(北航)课程作业资料共享计划](https://github.com/TheBloodthirster/BUAA_Course_Sharing)
-
-[各大高校课程资源汇总](https://studyhard.cf/)
-
+[如何写科研论文？](https://xpqiu.github.io/slides/%E5%A6%82%E4%BD%95%E5%86%99%E7%A7%91%E7%A0%94%E8%AE%BA%E6%96%87202203.pdf)
 
 **Write&Improve：英文写作提高工具**  
 [https://writeandimprove.com/](https://writeandimprove.com/)  
@@ -48,9 +26,21 @@
 
 ## 数学
 
+[kf-liu/The-Art-of-Linear-Algebra-zh-CN: Graphic notes on Gilbert Strang's "Linear Algebra for Everyone", 线性代数的艺术中文版, 欢迎PR. (github.com)](https://github.com/kf-liu/The-Art-of-Linear-Algebra-zh-CN)
+
+[zhcosin/elementary-math: 初等数学笔记，LaTeX 排版，内容涉及代数、数论、几何、组合等。 (github.com)](https://github.com/zhcosin/elementary-math)（[elementary-math-note.pdf (gitee.com)](https://gitee.com/zhcosin/math-notes-publish/raw/master/elementary-math-note.pdf)）
+
+[Yantong XIE’s homepage](https://darkoxie.github.io/) 高等数学B1/B2
+
+[数学乐 (shuxuele.com)](https://www.shuxuele.com/)
+
 [kenjihiranabe/The-Art-of-Linear-Algebra: Graphic notes on Gilbert Strang's "Linear Algebra for Everyone" (github.com)](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
 
 [Desmos | 图形计算器](https://www.desmos.com/calculator?lang=zh-CN)
+
+## 逻辑学
+
+[逻辑学简短入门（牛津通识读本） (gitbook.io)](https://wxflogic.gitbook.io/logic)
 
 ## 其他
 

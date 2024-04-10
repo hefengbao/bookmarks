@@ -9,13 +9,23 @@
 
 [CindyJS - 用于创造数学交互式内容的框架](https://cindyjs.org/)
 
-### 🔻工具
+[rossant/awesome-math: A curated list of awesome mathematics resources (github.com)](https://github.com/rossant/awesome-math)
+
+🔻工具
 
 [Microsoft数学求解器-数学问题求解器和计算器](https://mathsolver.microsoft.com/zh)
 
 [在线LaTeX公式编辑器-编辑器 (latexlive.com)](https://www.latexlive.com/)
 
 [数字帝国 - 数学工具箱 (numberempire.com)](https://zh.numberempire.com/)
+
+[Matrix Calculus](https://www.matrixcalculus.org/)
+
+[Integral Calculator • With Steps! (integral-calculator.com)](https://www.integral-calculator.com/)
+
+[Mathics - A free, open-source alternative to Mathematica®](https://mathics.org/)
+
+[AsciiMath - an easy-to-write markup language for mathematics.](https://asciimath.org/)
 
 ## 🔷化学
 

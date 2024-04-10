@@ -4,7 +4,6 @@
 [帮小忙，腾讯QQ浏览器在线工具箱平台](https://tool.browser.qq.com/)
 
 
-
 ## （解）压缩
 
 [7-Zip](http://www.7-zip.org/) - 用于处理压缩包的开源Windows实用程序。完美支持 7z，ZIP，GZIP，BZIP2和TAR 的全部特性，其他格式也可解压缩。
@@ -14,7 +13,6 @@
 [Mailspring - The best free email app (getmailspring.com)](https://www.getmailspring.com/)
 
 [Thunderbird — 解放收件箱 — Thunderbird](https://www.thunderbird.net/zh-CN/)
-
 
 ## 截图 / 录屏
 
@@ -46,13 +44,17 @@
 
 ## OCR
 
-[naptha/tesseract.js: Pure Javascript OCR for more than 100 Languages](https://github.com/naptha/tesseract.js)（[官网](https://tesseract.projectnaptha.com/)）
+[hiroi-sora/Umi-OCR: OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。 (github.com)](https://github.com/hiroi-sora/Umi-OCR)
 
+[LaTeX OCR - Using a ViT to convert images of equations into LaTeX code.](https://lukas-blecher.github.io/LaTeX-OCR/)
 
 ## 转换工具
 
 [HTML To Markdown 转换工具](https://devtool.tech/html-md)
 
+## Geo
+
+[GRASS GIS - Bringing advanced geospatial technologies to the world (osgeo.org)](https://grass.osgeo.org/)（[Github](https://github.com/OSGeo/grass)）
 
 ## 下载
 
@@ -68,21 +70,35 @@
 
 [KurtBestor/Hitomi-Downloader: :cake: Desktop utility to download images/videos/music/text from various websites, and more. (github.com)](https://github.com/KurtBestor/Hitomi-Downloader)
 
+[mayswind/AriaNg: AriaNg, a modern web frontend making aria2 easier to use. (github.com)](https://github.com/mayswind/AriaNg)
+
+[aria2](https://aria2.github.io/)[Github]](https://github.com/aria2/aria2)
+
+
 ## VPN（科学上网）
 
-[freefq/free: 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 (github.com)](https://github.com/freefq/free)
+[freefq/free: 科学上网(github.com)](https://github.com/freefq/free)
 
-[2dust/v2rayN: A GUI client for Windows, support Xray core and v2fly core and others (github.com)](https://github.com/2dust/v2rayN)
+[Alvin9999/new-pac: 科学上网 (github.com)](https://github.com/Alvin9999/new-pac)
 
-[Alvin9999/new-pac: 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网 (github.com)](https://github.com/Alvin9999/new-pac)
+[mksshare |- 每日分享免费节点,](https://mksshare.github.io/)
 
-[mksshare | 每日分享免费节点,免费机场,ssr节点,v2ray节点,v2ray订阅,clash节点,clash订阅,shadowrocket订阅,Quantumult X订阅,Clash .NET订阅,小火箭节点,小猫咪节点,免费翻墙,免费科学上网,免费梯子,免费trojan节点,蓝灯,谷歌商店,翻墙梯子,安卓VPN,iphone翻墙节点,iphone vpn,节点分享,免费SSR,蓝灯,谷歌商店,V2ary免费节点,代理,proxy代理科学上网,TG代理,电报代理,Telegram代理,翻墙软件,破解VPN,机场推荐,节点订阅,chatgpt节点,chatgpt机场,chatgpt代理](https://mksshare.github.io/)
+[2dust/v2rayN:  Windows 上支持 Xray core 和 v2fly core 的客户端](https://github.com/2dust/v2rayN)
+
+[Xray教程 - V2ray XTLS黑科技 (v2xtls.org)](https://v2xtls.org/xray%E6%95%99%E7%A8%8B/)
 
 https://raw.hellogithub.com/hosts - 在 hosts 文件中设置 Github 相关的 ip
+
+[GitHub.com - GitHub: Let's build from here · GitHub (ipaddress.com)](https://sites.ipaddress.com/github.com/)
+
+[无法访问GitHub，原因以及快速解决办法_github无法访问-CSDN博客](https://blog.csdn.net/oyjl__/article/details/132262919)
+
 ## 网络
 
 [LibreSpeed - Speed Test](https://librespeed.org/) 在线网速测试
 
+[Web-Check：超级酷的网络检查工具 ](https://web-check.xyz/)  
+很 Hacker，可以查看一个网站几乎所有信息，如 IP 信息、SSL、DNS 记录、Cookies、域名信息、搜索爬行规则、服务器位置、重定向记录、开放端口、路由跟踪、DNS 安全扩展、网站性能、关联主机名等
 ## IP
 
 [IP Guide: Look up IP, Network, and ASN data](https://ip.guide/)（在线）
@@ -123,6 +139,8 @@ https://raw.hellogithub.com/hosts - 在 hosts 文件中设置 Github 相关的 i
 
 [Qwerty Learner — 在线打字练习)](https://qwerty.kaiyi.cool/)
 
+[Practice typing by retyping ENTIRE novels — TypeLit.io](https://www.typelit.io/) 外语，输入小说练习打字
+
 [Quarto - An open-source scientific and technical publishing system](https://quarto.org/)
 
 [WiFi Card：扫描二维码链接 WiFi](https://wificard.io/)（[Github](https://github.com/bndw/wifi-card)）
@@ -135,3 +153,6 @@ https://raw.hellogithub.com/hosts - 在 hosts 文件中设置 Github 相关的 i
 
 [维基浏览器下载](https://download.kiwix.org/release/)（[所有包含的语言 - Kiwix](https://wiki.kiwix.org/wiki/Content_in_all_languages/zh-cn) / [离线维基百科wikipedia——可以随身携带的百科全书 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/420757728)）
 
+[typst/typst: A new markup-based typesetting system that is powerful and easy to learn. (github.com)](https://github.com/typst/typst)
+
+[实用的 LaTeX 编辑器 - Awesome软件 - OSCHINA - 中文开源技术交流社区](https://www.oschina.net/project/awesome?columnId=52)

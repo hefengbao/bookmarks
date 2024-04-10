@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Bookmark",
+  title: "Bookmarks",
   description: "网络书签",
   base: "/bookmarks/",
   themeConfig: {

@@ -25,6 +25,7 @@
 
 [Online text to diagram tools | XOSH.ORG](https://xosh.org/text-to-diagram/)
 
+[D2 is a modern diagram scripting language that turns text to diagrams.](https://d2lang.com/)（[Github](https://github.com/terrastruct/d2)）
 
 [Systemizer - A system design tool (honzaap.github.io)](https://honzaap.github.io/Systemizer/)
 
@@ -40,7 +41,11 @@
 
 [OpenBoard, the best interactive whiteboard for schools and universities](https://openboard.ch/index.en.html)
 
+[perfect-freehand - Draw perfect pressure-sensitive freehand lines.)](https://www.perfectfreehand.com/)（[Github](https://github.com/steveruizok/perfect-freehand)）
 
 **untools：更好思考问题的工具**  
 [https://untools.co/](https://untools.co/)  
 收集了各种思维工具和框架，可以帮助我们更好地理解问题、分析、决策，包括有常用的金字塔、SWOT 分析、因果图、二阶思维等，类似于选择不同的思维模型来解决不同的问题。
+
+
+[免费作图工具 (yuque.com)](https://www.yuque.com/ruanyf/weekly/free-diagram)

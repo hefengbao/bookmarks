@@ -6,8 +6,6 @@
 
 [金庸图书馆](https://www.jinyongbook.com)
 
-[好讀](https://haodoo.net/)  
-
 [铅笔小说](https://www.23qb.net/)
 
 [名著小说网](http://mingzhuxiaoshuo.com/)
@@ -24,6 +22,7 @@
 
 [100% Free eBooks for All Devices (planetebook.com)](https://www.planetebook.com/)
 
+[Free eBooks | Project Gutenberg](https://gutenberg.org/)
 
 ### 编程
 
@@ -36,3 +35,5 @@
 [libribook | Free Read & Download Online Books](https://libribook.com/)
 
 [老画报网-老连环画 漫画欣赏与交流 (laohuabao.com)](http://www.laohuabao.com/)
+
+[高教书苑 (hep.com.cn)](https://ebook.hep.com.cn/index.html#/list/ebook)
