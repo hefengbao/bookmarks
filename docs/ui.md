@@ -44,7 +44,7 @@
 
 
 
-
+[Shopify Polaris](https://polaris.shopify.com/)（[combindma/dash-ui: UI components library for Laravel Blade inspired by Shopify Polaris. (github.com)](https://github.com/combindma/dash-ui)）
 
 ## Tailwind  CSS
 
@@ -85,6 +85,10 @@
 [1150+ Tailwind CSS Templates (Handpicked) (statichunt.com)](https://statichunt.com/tailwind-templates)
 
 [TallStackUI - Everything you need in a single place to start your next _TALL Stack_ project.](https://tallstackui.com/)
+
+[Penguin UI - Tailwind CSS & Alpine JS UI Component Library](https://www.penguinui.com/)
+
+
 ## Bootstrap
 
 [Mazer Admin Dashboard - Free Bootstrap 5 Template ](https://zuramai.github.io/mazer/)

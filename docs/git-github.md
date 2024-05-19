@@ -18,3 +18,8 @@
 ## Github 拓展使用
 
 [giscus/giscus: A comment system powered by GitHub Discussions.。](https://github.com/giscus/giscus)
+
+
+
+
+[Oh My Git! An open source game about learning Git!](https://ohmygit.org/)

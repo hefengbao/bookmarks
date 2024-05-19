@@ -632,6 +632,11 @@
 
 [metabase/metabase: The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum: (github.com)](https://github.com/metabase/metabase)
 
+
+[dashpresshq/dashpress: Generate powerful admin apps without writing a single line of code - Run `npx dashpress` to see some magic! (github.com)](https://github.com/dashpresshq/dashpress)一个开源工具，只需执行一个命令，就会自动分析数据库结构，生成管理后台，号称不用写代码。
+
+[heyform/heyform: HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required. (github.com)](https://github.com/heyform/heyform)一个开源的表单生成器，创建调查、问卷、投票等，可以不编写一行代码。
+
 ## 流程（Flow）
 
 [Drawflow: Simple flow library 🖥️🖱️ (github.com)](https://github.com/jerosoler/Drawflow)（[演示](https://jerosoler.github.io/Drawflow/)）
@@ -1099,3 +1104,10 @@
 
 
 [一个 DNS 游乐场，为每个访问者提供一个免费子域名，你可以对它设置各种 DNS 记录，进行练习。](https://messwithdns.net/)
+
+
+
+[Genji (genji-md.dev)](https://genji-md.dev/)VitePress 的一个插件，用于在 Markdown 文档插入可以执行的代码块，创建交互式文档。
+
+
+[nashaofu/node-screenshots: Zero-dependent. A native nodejs screenshots library for Mac、Windows、Linux. (github.com)](https://github.com/nashaofu/node-screenshots)一个跨平台、零依赖的 Node.js 模块，用于截图和录屏。

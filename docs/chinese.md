@@ -61,7 +61,7 @@
 
 ## 汉字
 
-[Hanzi Writer 是 javascript 免费开源库，根据汉字书写时按照笔画顺序的特征，可以播放正确笔画顺序的描边动画和练习测试。 支持简体字和繁体字。]](https://hanziwriter.org/cn/)（[Github](https://github.com/chanind/hanzi-writer)）
+[Hanzi Writer 是 javascript 免费开源库，根据汉字书写时按照笔画顺序的特征，可以播放正确笔画顺序的描边动画和练习测试。 支持简体字和繁体字。](https://hanziwriter.org/cn/)（[Github](https://github.com/chanind/hanzi-writer)）
 
 [CNChar - 功能全面、多端支持的汉字拼音笔画js库](https://theajack.github.io/cnchar/)（[Github](https://github.com/theajack/cnchar)）
 

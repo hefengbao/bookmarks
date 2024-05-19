@@ -39,6 +39,8 @@
 
 [ Learn Prompting: Your Guide to Communicating with AI](https://learnprompting.org/zh-Hans/docs/intro)（中文）
 
+[ArtiverseHub免费艺术提示市场 - 免费DALLE-E 3提示、MidJourney提示、Leonardo提示等](https://artiversehub.ai/cn/prompt-marketplace)
+
 ## LLM
 
 [一站式 LLM底层技术原理入门指南](https://s3tlxskbq3.feishu.cn/docx/NyPqdCKraoXz9gxNVCfcIFdnnAc)（中文）

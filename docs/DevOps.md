@@ -17,6 +17,10 @@
 
 [mouday/domain-admin: Domain and SSL Cert monitor System. 域名SSL证书监测平台 (github.com)](https://github.com/mouday/domain-admin)
 
+[OneUptime/oneuptime: OneUptime is the complete open-source observability platform. (github.com)](https://github.com/OneUptime/oneuptime)
+一个开源的服务可用性检查工具，记录服务的健康状态，如果发现服务下线，立刻发送通知，可以替代 [StatusPage.io](https://www.statuspage.io/)。
+
+
 ## k8s
 
 [ddosify/ddosify: Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud (github.com)](https://github.com/ddosify/ddosify)

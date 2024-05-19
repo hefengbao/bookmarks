@@ -19,6 +19,8 @@
 
 [关于本书 | 高并发的哲学原理 (lvwenhan.com)](https://pphc.lvwenhan.com/)
 
+[Linux 内核教学 — Linux 系统内核文档 (linux-kernel-labs-zh.xyz)](https://linux-kernel-labs-zh.xyz/index.html)
+
 ## 数据类型
 
 ### Float
