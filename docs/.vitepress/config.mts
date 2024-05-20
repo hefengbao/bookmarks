@@ -2,27 +2,28 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Bookmarks",
+  title: "书签",
   description: "网络书签",
   base: "/bookmarks/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Links', link: '/information' }
+      { text: 'Examples', link: '/markdown-examples' }
     ],
 
     sidebar: [
       {
-        text: 'Links',
+        text: 'Examples',
         items: [
-          { text: '资讯', link: '/information' },
+          { text: 'Markdown Examples', link: '/markdown-examples' },
+          { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/hefengbao/bookmarks' }
+      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
   }
 })

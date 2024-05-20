@@ -3,13 +3,16 @@
 layout: home
 
 hero:
-  name: "Bookmark"
+  name: "书签"
   text: "网络书签"
-  tagline: 从浏览器移到这里继续吃灰~
+  tagline: My great project tagline
   actions:
     - theme: brand
-      text: Links
-      link: /information
+      text: Markdown Examples
+      link: /markdown-examples
+    - theme: alt
+      text: API Examples
+      link: /api-examples
 
 features:
   - title: Feature A
@@ -19,3 +22,4 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
+
