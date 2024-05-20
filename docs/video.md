@@ -1,4 +1,4 @@
-[美剧天堂](https://www.meijutt.tw)([备用地址](mjtt.tv))
+[美剧天堂](https://www.meijutt.tw)([备用地址](https://mjtt.tv))
 
 [人人影视](https://www.yyets.com)
 
@@ -12,7 +12,7 @@
 
 动漫：
 
-[爱奇动漫网 (aiqidm.com)](https://www.aiqidm4.com/)([备用地址](aiqidm1.com))
+[爱奇动漫网 (aiqidm.com)](https://www.aiqidm4.com/)([备用地址](https://aiqidm1.com))
 
 [漫猫动漫](http://www.comicat.org)
 
