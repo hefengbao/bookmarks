@@ -5,14 +5,14 @@ layout: home
 hero:
   name: "书签"
   text: "网络书签"
-  tagline: My great project tagline
+  tagline: "先收藏起来，或许用的上吧！"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 开始
+      link: /information
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Github
+      link: https://github.com/hefengbao/bookmarks
 
 features:
   - title: Feature A

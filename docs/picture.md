@@ -264,3 +264,8 @@ https://www.renderforest.com/
 
 
 [中国大学矢量校徽合集 · China University Vector Logos Collection (urongda.com)](https://www.urongda.com/)
+
+
+[Vivian Maier Photographer | Official website of Vivian Maier | Vivian Maier Portfolios, Prints, Exhibitions, Books and documentary film](https://www.vivianmaier.com/)
+
+[免费素材图片 (pexels.com)](https://www.pexels.com/zh-cn/)
