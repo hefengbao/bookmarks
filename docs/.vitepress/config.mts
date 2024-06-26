@@ -20,7 +20,7 @@ export default defineConfig({
           { text: 'AI', link: '/ai' },
           { text: 'APP', link: '/app' },
           { text: '汉语', link: '/chinese' },
-          { text: '电脑', link: '/composer' },
+          { text: '电脑', link: '/computer' },
           { text: '计算机科学', link: '/cs' },
           { text: '数据集', link: '/dataset' },
           { text: '设计', link: '/design' },
