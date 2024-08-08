@@ -2,8 +2,6 @@
 
 [IP 地址查询 (myip.cx)](https://myip.cx/)
 
-[AnyBT 磁力链接搜索引擎](https://anybt.eth.limo/)
-
 [烟海 | 中国古典学术资源导航 (yanhainav.cn)](http://www.yanhainav.cn/)
 
 [新华字典、成语、诗词_在线翻译_好工具学习工具 (hao86.com)](https://www.hao86.com/)
