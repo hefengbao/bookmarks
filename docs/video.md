@@ -1,12 +1,4 @@
-[美剧天堂](https://www.meijutt.tw)([备用地址](https://mjtt.tv))
-
-[人人影视](https://www.yyets.com)
-
-[电影港](http://www.dygang.net)([备用地址](https://www.dygang.tv))
-
-[6v电影](http://www.hao6v.com)
-
-[电影天堂](https://www.dytt89.com)
+[6v电影](http://www.6v520.com)（[防迷路](https://www.6v123.com/)）
 
 [Vidhub视频库-在线视频网站-海量高清视频在线观看](https://vidhub.tv/)（[Vidhub视频库地址发布页，收藏不迷路！](https://vidhub.link/)）
 
@@ -30,7 +22,7 @@
 
 [直播中国 (cctv.com)](https://livechina.cctv.com/index.shtml)
 
-[美果TV (mgtvys.net)](https://www.mgtvys.net/
+[美果TV (mgtvys.net)](https://www.mgtvys.net/)
 
 [tgbot-collection/YYeTsBot: 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享 (github.com)](https://github.com/tgbot-collection/YYeTsBot)
 

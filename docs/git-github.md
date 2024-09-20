@@ -20,6 +20,6 @@
 [giscus/giscus: A comment system powered by GitHub Discussions.。](https://github.com/giscus/giscus)
 
 
-
+[o2sh/onefetch：一个命令行工具，可以显示 Git 仓库的详细统计信息，比如代码行数、体积、贡献者等等](https://github.com/o2sh/onefetch)
 
 [Oh My Git! An open source game about learning Git!](https://ohmygit.org/)
