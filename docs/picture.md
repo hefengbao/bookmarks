@@ -132,7 +132,11 @@ https://www.transparenttextures.com/
 
 [Free Icons | icons.download](https://icons.download/)
 
+[MingCute Icon](https://www.mingcute.com/)
+
 [Icon Maker by Raycast](https://icon.ray.so/)
+
+
 
 ## 插画
 
