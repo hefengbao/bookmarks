@@ -132,7 +132,11 @@ https://www.transparenttextures.com/
 
 [Free Icons | icons.download](https://icons.download/)
 
+[MingCute Icon](https://www.mingcute.com/)
+
 [Icon Maker by Raycast](https://icon.ray.so/)
+
+
 
 ## 插画
 
@@ -205,6 +209,12 @@ https://www.transparenttextures.com/
 
 https://www.renderforest.com/ 
 
+## 截图美化工具
+
+[https://xnapper.com/app](https://xnapper.com/app)
+
+[Jellylade：截图美化工具](https://app.jellylade.com/)（WebApp,免费）
+
 ## 取色
 
 [Color Hunter](http://www.colorhunter.com/)
@@ -242,7 +252,6 @@ https://www.renderforest.com/
 
 [Geometrize - 把图像几何化为形状](https://www.geometrize.co.uk/)
 
-[Jellylade：截图美化工具](https://app.jellylade.com/)（WebApp,免费）
 
 [darktable](https://www.darktable.org/)
 
