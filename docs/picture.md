@@ -136,6 +136,8 @@ https://www.transparenttextures.com/
 
 [Icon Maker by Raycast](https://icon.ray.so/)
 
+[Simple Icons - 3221 Free SVG icons for popular brands - 品牌 Icon](https://simpleicons.org/)
+
 
 
 ## 插画
