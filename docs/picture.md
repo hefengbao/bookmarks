@@ -47,6 +47,8 @@ https://www.transparenttextures.com/
 
 [Artvee：古典画免费下载](https://artvee.com/dl/the-young-scribe/)
 
+[吉卜力电影的高清图｜STUDIO GHIBLI](https://www.ghibli.jp/works/)
+
 ## 矢量图
 
 [ManyPixels：矢量图插图下载网站](https://www.manypixels.co/gallery)
@@ -138,7 +140,7 @@ https://www.transparenttextures.com/
 
 [Simple Icons - 3221 Free SVG icons for popular brands - 品牌 Icon](https://simpleicons.org/)
 
-
+[A beautiful library with SVG logos - Svgl](https://svgl.app/)
 
 ## 插画
 
@@ -166,6 +168,8 @@ https://www.transparenttextures.com/
 [Shapefest™ - A massive library of free 3D shapes](https://www.shapefest.com/)
 
 ## Mockups
+
+[iMockup - Create Mockup Animations in Minutes](https://www.imockup.app/)
 
 [Shots - Create Amazing Mockups](https://shots.so/)
 

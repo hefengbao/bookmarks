@@ -6,6 +6,9 @@ hero:
   name: "书签"
   text: "网络书签"
   tagline: "先收藏起来，或许用的上吧！"
+  image:
+    src: ./NowInLife.jpg
+    alt: NowInLife
   actions:
     - theme: brand
       text: 开始
