@@ -64,6 +64,8 @@
 
 [开源视频剪辑处理工具 - Awesome软件 - OSCHINA - 中文开源技术交流社区](https://www.oschina.net/project/awesome?columnId=37)
 
+[OpenCut-app/OpenCut: The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut)
+
 ## 视频播放器
 
 [PotPlayer中文网 - 万能格式影音视频播放器 PotPlayer播放器 PotPlayer官网 (potplayercn.com)](http://www.potplayercn.com/)
