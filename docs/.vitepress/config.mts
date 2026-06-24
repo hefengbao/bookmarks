@@ -33,6 +33,7 @@ export default defineConfig({
           { text: '文件', link: '/file' },
           { text: '外语', link: '/foreign-language' },
           { text: '游戏', link: '/game' },
+          { text: 'Icon', link: '/icon' },
           { text: 'Git & Github', link: '/git-github' },
           { text: '健康', link: '/health' },
           { text: '灵感', link: '/idea' },
